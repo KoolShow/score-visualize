@@ -1,2 +1,3 @@
 *.tsv
-result.png
+*.png
+!test.tsv
